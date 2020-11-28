@@ -1,0 +1,19 @@
+from,to,weight
+Ragnar,Rollo,1
+Ragnar,Aslaug,2
+Ragnar,Lagartha,2
+Ragnar,Ivar,1
+Ragnar,Bjoern,3
+Rollo,Lagartha,1
+Lagartha,Bjoern,3
+Lagartha,Torvi,3
+Lagartha,Aslaug,1
+Aslaug,Ivar,3
+Ivar,Hvirtsek,1
+Ivar,Ubbe,1
+Ivar,Bjoern,1
+Hvirtsek ,Bjoern,1
+Hvirtsek ,Ubbe,1
+Ubbe,Bjoern,1
+Ubbe,Torvi,3
+Torvi,Bjoern,2
