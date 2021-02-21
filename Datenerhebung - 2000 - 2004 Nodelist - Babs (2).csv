@@ -1,0 +1,94 @@
+id,name,type (0/1 - Ziffer oder Medium),region (0/1),published
+FZ,Fränkischer Tag,1,1,1
+BZ,B.Z,1,1,1
+Bild,Bild,1,0,1
+Stern,Stern,1,0,1
+Coupe,Coupé,1,0,1
+ETN,European Trade News,1,0,1
+Taz,TAZ,1,0,1
+BK,Berliner Kurier,1,0,1
+VO,Vogue,1,0,1
+rtv,Radio und Television,1,0,1
+BBZ,Butzbacher Zeitung,1,1,1
+EX,Express,1,0,1
+FM,Fit Mama,1,0,1
+SAZ,Saarbrückender Zeitung,1,1,1
+BildO,Bild Online,1,0,0
+DNB,Das neue Blatt,1,0,1
+J,Jetzt,1,0,1
+OFN,Ostfriesische Nachrichten,1,1,1
+RZ,Rhein Zeitung,1,1,1
+JF,Junge Freiheit,1,0,1
+MAX,Max,1,1,1
+DM,Dresdner Morgenpost,1,1,1
+HM,Hamburger Morgenpost,1,1,1
+RUN,Rundy,1,0,1
+Huerriyet,Hürriyet,1,0,1
+SA,Sonntag Aktuell,1,1,1
+NW,Neue Westfälische,1,1,1
+AZ,Allgäuer Zeitung,1,1,1
+Bravo,Bravo,1,0,1
+BM,Business Magazin,1,0,1
+SZ,Süddeutsche Zeitung,1,0,1
+VEN,Ventil,1,0,1
+VM,Volksstimme Magdeburg,1,1,1
+WZ,Wilhelmshavener Zeitung,1,1,1
+TZ,Tageszeitung,1,1,1
+TV,TV Hören und Sehen,1,0,1
+HAZ,Hannoversche Allgemeine Zeitung,1,1,1
+ES,Eulenspiegel,1,0,1
+WFB,Westfalen-Blatt,1,1,1
+STU,Stuttgarter Zeitung,1,1,1
+HLZ,Hinterländer Anzeiger,1,1,1
+TGZ,Torgauer Zeitung,1,1,1
+NN,Nürnberger Nachrichten,1,1,1
+NP,Neue Post,1,0,1
+EC,Econo,1,1,1
+BB,Bibliser Blatt,1,1,1
+WET,Wetterauer Zeitung,1,1,1
+Welt,Die Welt,1,0,1
+FHM,For Him Magazin,1,0,1
+SB,Selber Bauen,1,0,1
+LDZ,Leine-Deister-Zeitung,1,1,1
+RAT,"Ratgeber für Haus, Wohnung und Garten",1,0,1
+OFK,Ostfriesischer Kurier,1,1,1
+OP,Offenbach-Post,1,1,1
+MA,Maxim,1,0,1
+TZM,Tageszeitung München,1,1,1
+BWZ,Bunte Wochen Zeitung,1,0,1
+LZ,Leine Zeitung,1,1,1
+BildN,Bild Nürnberg,1,1,1
+HZ,Hersfelder Zeitung,1,1,1
+ABZ,Abendzeitung,1,1,1
+BildM,Bild München,1,1,1
+SAEZ,Sächsiche Zeitung,1,1,1
+CMP,Chemnitzer Morgenpost,1,1,1
+MBZ,Mittelbayerische Zeitung,1,1,1
+NR,Neue Revue,1,0,1
+HS,Heilbronner Stimme,1,1,1
+GLAM,Glamour,1,0,1
+MG,Mein Geld,1,0,1
+BDZ,Bergedorfer Zeitung,1,1,1
+TGS,Tagesspiegel,1,1,1
+BERZ,Berliner Zeitung,1,1,1
+ET,Economy Tribune,1,0,1
+UNI,Unicum,1,0,1
+BildMW,Bild Mainz Wiesbaden,1,1,1
+POP,Popcorn,1,0,1
+LP,Landpost,1,0,1
+HAB,Hamburger Abendblatt,1,1,1
+CN,Cuxhavener Nachrichten,1,1,1
+WELZ,Waldeckische Landes-zeitung,1,1,1
+WF,Wirtschaftsforum,1,0,1
+EZ,Eifel-Zeitung,1,1,1
+Ziffer1,Pressekodex Ziffer 1,0,,
+Ziffer2,Pressekodex Ziffer 2,0,,
+Ziffer3,Pressekodex Ziffer 3,0,,
+Ziffer4,Pressekodex Ziffer 4,0,,
+Ziffer6,Pressekodex Ziffer 6,0,,
+Ziffer7,Pressekodex Ziffer 7,0,,
+Ziffer8,Pressekodex Ziffer 8,0,,
+Ziffer9,Pressekodex Ziffer 9,0,,
+Ziffer11,Pressekodex Ziffer 11,0,,
+Ziffer12,Pressekodex Ziffer 12,0,,
+Ziffer13,Pressekodex Ziffer 13,0,,
